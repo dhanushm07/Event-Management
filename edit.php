@@ -1,8 +1,7 @@
 <?php
 // Start the output buffer
 ob_start();
-
-// Database connection and operations
+// Database connection and operations now
 $host = "localhost";
 $dbusername = "root";
 $dbpassword = "";
